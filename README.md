@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
    
 bash
-   git clone https://github.com/username/log-analyzer.git   cd log-analyzer
+   git clone https://github.com/sdf4h/find-hacks-by-logs.git 
    
 
 2. Убедитесь, что установлен Python 3.7+.
